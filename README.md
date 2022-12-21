@@ -1,5 +1,5 @@
 # Repositório do desafio de projeto de Git/Github da DIO
-Repositório para guardar as minhas anotações de estudo. Criado em um desafio de bootcamp da DIO.
+Repositório para guardar anotações de estudo. Criado em um desafio de bootcamp da DIO.
 
 
 ## Links úteis
